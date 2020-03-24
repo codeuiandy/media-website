@@ -217,7 +217,7 @@ const assets = [
   '/tutorialsList.html',
   '/tutorial.html',
   '/booksList.html',
-  '/readbook.html',
+ 
   // END of html files
 
   // web fonts
